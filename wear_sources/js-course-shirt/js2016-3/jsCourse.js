@@ -1,5 +1,5 @@
-"use strict";
-const Kottan =require('good-mood')
+'use strict';
+const Kottan = require('good-mood')
 let jsCourse = {
     community : 'Kottans',
     location : {
