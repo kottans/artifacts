@@ -1,5 +1,6 @@
 # How it is planned to be
 - **front** - [ASCI kottan](https://github.com/Quodnon/artifacts/raw/master/wear_sources/js-course-shirt/v.0.3_cyrilic/js-course-shirt-front_v.0.3.ai)(adobe dc / adobe illustrator)
+![](https://github.com/Quodnon/artifacts/blob/master/wear_sources/js-course-shirt/js2016-3/js_course_shirt_front_v.png?raw=true)
 - **back** - code `jsCourse.js`
 
 ## TODO:
