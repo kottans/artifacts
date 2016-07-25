@@ -1,5 +1,5 @@
 'use strict';
-const {js_enthusiast:Kottan} = require('good-mood')
+const {js_enthusiast : Kottan} = require('good-mood')
 let jsCourse = {
     community : 'Kottans',
     session : 'JS2016-3',
@@ -20,4 +20,4 @@ let jsCourse = {
         frameworks : ['React','Angular','Polymer','Ember'],
     }
 }
-Kottan.use(jsCourse).then(()=>{ console.log('Very promising!') })
+Kottan.use(jsCourse).then(() => { console.log('Very promising!') })
