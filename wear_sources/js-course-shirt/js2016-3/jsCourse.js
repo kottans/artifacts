@@ -5,11 +5,11 @@ let jsCourse = {
     session : 'JS2016-3',
     location : {
         country : 'Ukraine',
-        cities : ['Kyiv', 'Kharkiv', 'Lviv']    
+        cities : ['Kyiv', 'Kharkiv', 'Lviv'],
     },
     dates : {
         start : new Date ('May 12, 2016'),
-        end : new Date ('July 30, 2016')
+        end : new Date ('July 30, 2016'),
     },
     program : {
         basic : ['(Post)?HTML', '(Post)?CSS', 'Semantics','ES6'],
