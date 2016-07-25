@@ -7,7 +7,7 @@ let jsCourse = {
         cities : ['Kyiv','Kharkiv','Lviv']    
     },
     dates : {
-        start : new Date ('May 12,2016'),
+        start : new Date ('May 12, 2016'),
         end : new Date ('July 30, 2016')
     },
     program : {
