@@ -6,8 +6,8 @@ class JsCourse extend KottanCourse {
     this.students = []
     while (new Date() > start && new Date () < end) {
       this.students
-          .gatherAt(location)
-          .consume(program)
+        .gatherAt(location)
+        .consume(program)
     }
   }
   participate(kottan) { 
