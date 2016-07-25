@@ -4,7 +4,7 @@ let jsCourse = {
     community : 'Kottans',
     session : 'JS2016-3',
     location : {
-        country :'Ukraine',
+        country : 'Ukraine',
         cities : ['Kyiv', 'Kharkiv', 'Lviv']    
     },
     dates : {
