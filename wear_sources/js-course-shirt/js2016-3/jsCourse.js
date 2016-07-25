@@ -1,7 +1,8 @@
 'use strict';
-const Kottan = require('good-mood')
+const {js_enthusiast:Kottan} = require('good-mood')
 let jsCourse = {
     community : 'Kottans',
+    session : 'JS2016-3',
     location : {
         country :'Ukraine',
         cities : ['Kyiv','Kharkiv','Lviv']    
