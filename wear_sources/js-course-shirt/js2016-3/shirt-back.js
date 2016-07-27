@@ -1,10 +1,10 @@
-'use strict';
+'use strict'
 import Kottan from 'good-mood'
 
-class JsCourse extend KottanCourse {
+class JsCourse extends KottanCourse {
   constructor({dates: {start, end}, location, program}) {
     this.students = []
-    while (new Date() > start && new Date () < end) {
+    while (Date.now() > start && Date.now() < end) {
       this.students
         .gatherAt(location)
         .consume(program)
