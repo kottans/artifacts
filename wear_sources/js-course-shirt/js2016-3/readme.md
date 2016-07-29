@@ -1,15 +1,24 @@
 # JS2016-3
+
 ### What are we doing:
+
 - t-shirts
 - hoodies
+
+# [Sources](kottan-JS-3-final.ai)
+
+
 ### How do they look like?
+
 #### Front
 ![](kottan-JS-3-01.jpg)
+
 #### Back
 ![](kottan-JS-3-02.jpg)
+
 #### Overall
-![](kottan-JS-3-02.jpg)
-# [Sources](kottan-JS-3-final.ai)
+![](kottan-JS-3-03.jpg)
+
 
 ## What to say to those who will deliver your order
 | prop | value |
