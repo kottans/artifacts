@@ -10,10 +10,10 @@
 
 ### How do they look like?
 
-#### Front
+#### Back
 ![](kottan-JS-3-01.jpg)
 
-#### Back
+#### Front
 ![](kottan-JS-3-02.jpg)
 
 #### Overall
