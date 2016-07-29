@@ -22,7 +22,7 @@
 
 ## What to say to those who will deliver your order
 | prop | value |
-|===|===|
+| --- | --- |
 |print type| **flex**|
 |front size | A4 |
 | back size | A3 |
