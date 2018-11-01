@@ -69,8 +69,8 @@ at admission interviews phase.
 
 A recognition note from mentor to a student may look as follows
 
-Hey! You did a great job worth special recognition.
-
+> Hey! You did a great job worth special recognition.
+>
 > Here is your achievement badge:
 > [![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)
 >
@@ -139,5 +139,9 @@ Use the above as a reference guide.
 A variation of the above can be created and used to denote
 a particular achievement recognition.
 Consider adding re-usable badges to this paper.
+
+Try to stick to colors in subsection (e.g. keep all git-related badges
+orange and github-related badges lightgrey, that my help to visually
+group badges per skill-sets.
 
 [_^ TOC ^_](#table-of-contents)
