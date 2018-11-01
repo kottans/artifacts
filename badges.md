@@ -76,6 +76,7 @@ A recognition note from mentor to a student may look as follows
 >
 > Feel free adding it to your course materials. Just insert the following
 > code somewhere at the top of your course `README.md`:
+>
 > `[![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)`
 >
 > Congratulations on the skills level-up!
@@ -89,6 +90,7 @@ Here is your achievement badge:
 
 Feel free adding it to your course materials. Just insert the following
 code somewhere at the top of your course `README.md`:
+
 `[![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)`
 
 Congratulations on the skills level-up!
