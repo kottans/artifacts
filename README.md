@@ -12,5 +12,9 @@ Just a centralized place to keep kottans-related stuff/links
   * Frontside - Yellow octocat
   * Backside - Stylised JS-course code
 
+## Other assets
+
+* [badges](badges.md)
+
 * * *
 *\** - product of their time, don't be judgy
