@@ -20,6 +20,8 @@ by Kottans organization members only.
 - [Creating variations](#creating-variations)
 - [General purpose badges](#general-purpose-badges)
 - [Students' achievements](#students-achievements)
+  - [Granting ceremony](#granting-ceremony)
+  - [Badges](#badges)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 <!-- generated with DocToc https://github.com/thlorenz/doctoc -->
@@ -67,6 +69,17 @@ As Kottans courses provide for tests phase (pre-course, self study phase)
 a collection of badges may help to catch student's skills at a glance
 at admission interviews phase.
 
+Any Kottans badge is a valuable asset, obtaining it is a privilege
+and granting one is an act of responsibility. Therefore a commit
+adding the badge must be authored by Kottans organization member
+and commit message should follow certain template to enable quick search.
+
+The above allows anyone to validate badges and also
+allows Kottans organization to effectively request
+illegitimate users to remove badges from publications.
+
+### Granting ceremony
+
 A recognition note from mentor to a student may look as follows
 
 > Hey! You did a great job worth special recognition.
@@ -74,10 +87,8 @@ A recognition note from mentor to a student may look as follows
 > Here is your achievement badge:
 > [![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)
 >
-> Feel free adding it to your course materials. Just insert the following
-> code somewhere at the top of your course `README.md`:
->
-> `[![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)`
+> Please, provide me with a link to a document in your repo so I could
+> PR the badge code into.
 >
 > Congratulations on the skills level-up!
 
@@ -88,17 +99,20 @@ Hey! You did a great job worth special recognition.
 Here is your achievement badge:
 [![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)
 
-Feel free adding it to your course materials. Just insert the following
-code somewhere at the top of your course `README.md`:
-
-`[![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/frontend)`
+Please, provide me with a link to a document in your repo so I could
+PR the badge code into.
 
 Congratulations on the skills level-up!
 ```
 
-Use the above as a reference guide.
+Use the text above as a reference guide.
 
-**Badges**
+Once the link is available the Kottan PRs the badge code.
+Commit message MUST say
+`Add Kottans badge "badge-label" (Kottan's-github-username)`.
+Following the template makes the commit searchable.
+
+### Badges
 
  * Contributions and PRs
    - [![Kottans-Student-Contribution-workflow](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20contribution%20workflow-6f42c1.svg)](https://github.com/kottans/)
