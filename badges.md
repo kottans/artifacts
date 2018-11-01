@@ -1,3 +1,7 @@
+[![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans)
+[![Kottans badges](https://img.shields.io/badge/%3D(%5E.%5E)%3D-badges-blue.svg)](https://github.com/kottans/badges.md)
+
+
 # Badges
 
 This paper describes badges associated with
@@ -44,8 +48,8 @@ Each badge should described as a list element containing
 
 ## General purpose badges
 
- * [![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans/frontend)
-   `[![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans/frontend)` -
+ * [![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans)
+   `[![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans)` -
    general attribution to Kottans organization
  * [![Kottans-Frontend](https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
    `[![Kottans-Frontend](https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)` -
