@@ -168,6 +168,9 @@ For validation purposes the Kottan also adds a record to
     - [![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
       `[![Kottans-Student-Git-revert](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20git%20revert-orange.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)` -
       student's `git revert` mastery confirmed
+    - [![Kottans-Student-Gitignore](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20gitignore-orange.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+      `[![Kottans-Student-Gitignore](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20gitignore-orange.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)` -
+      student successfully created a `.gitignore` file and commited it to the repo for everyone to use and/or made meaningful additions to this file.
   * GitHub specific
     - [![Kottans-Student-Github-pages](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20gh--pages-lightgrey.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
       `[![Kottans-Student-Github-pages](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20gh--pages-lightgrey.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)` -
