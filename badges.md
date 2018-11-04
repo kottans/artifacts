@@ -52,8 +52,8 @@ Each badge should be described as a list element containing
  * [![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans)
    `[![Kottans](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans-lightgrey.svg)](https://github.com/kottans)` -
    general attribution of a project to Kottans organization
- * [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-lightgrey.svg)](https://github.com/kottans)
-   `[![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-lightgrey.svg)](https://github.com/kottans)` -
+ * [![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans)
+   `[![Kottans-Evangelist](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20Evangelist-dc143c.svg)](https://github.com/kottans)` -
    owner has very special merits for Kottans organization values promotion and spread
 
 **Variations**
@@ -65,8 +65,8 @@ attribution to a Kottans project or merits for Kottans organization.
 
 ## Course badges
 
- * [![Kottans-promoter](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20promoter-lightgrey.svg)](https://github.com/kottans)
-   `[![Kottans-promoter](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20promoter-lightgrey.svg)](https://github.com/kottans)` -
+ * [![Kottans-promoter](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20promoter-dc143c.svg)](https://github.com/kottans)
+   `[![Kottans-promoter](https://img.shields.io/badge/%3D(%5E.%5E)%3D-Kottans%20promoter-dc143c.svg)](https://github.com/kottans)` -
    owner actively promotes Kottans educational initiatives/projects on a regular basis and/or
    authors publications promoting Kottans values and educational initiatives/projects
  * [![Kottans-Frontend](https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
