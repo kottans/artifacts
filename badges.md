@@ -175,6 +175,16 @@ For validation purposes the Kottan also adds a record to
     - [![Kottans-Student-Github-pages](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20gh--pages-lightgrey.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
       `[![Kottans-Student-Github-pages](https://img.shields.io/badge/%3D(%5E.%5E)%3D-mastered%20gh--pages-lightgrey.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)` -
       student's GitHub Pages mastery confirmed
+  * Other hard skills
+    - [![Kottans-Student-OOP](https://img.shields.io/badge/%3D(%5E.%5E)%3D-extends%20Developer-blue.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)
+      `[![Kottans-Student-OOP](https://img.shields.io/badge/%3D(%5E.%5E)%3D-extends%20Developer-blue.svg)](https://github.com/kottans/kottans/blob/master/endorsements.md)` -
+      student mastered advanced OOP concepts and patterns, e.g. any of
+      - inheritance with the prototype chain
+      - ES6 class inheritance
+      - composition pattern
+      - method override and `super.method` employment
+      - magic `toString` implementation
+      - employment of `this.constructor.name` to identify instance attribution to a class
 
 **Variations**
 
